@@ -1,5 +1,5 @@
 <h1 align="center">
-  Desafio 03 - Slide Animado
+  Desafio 03 - Mudança de cor de texto quando entra em outra div
 </h1>
 
 <h1>
