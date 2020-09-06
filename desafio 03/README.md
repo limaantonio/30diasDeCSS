@@ -1,5 +1,5 @@
 <h1 align="center">
-  Desafio 02 - Loader Animado
+  Desafio 03 - Slide Animado
 </h1>
 
 <h1>
